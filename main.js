@@ -168,9 +168,9 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 // tg send
 
-const token = '5839297487:AAGMNNZQwWz7SR0LncxxIAXav0gpfYUX62g';
-const chatId = '-1001851742913';
-const urlApi = `https://api.telegram.org/bot${token}/sendMessage`;
+// const token = '5839297487:AAGMNNZQwWz7SR0LncxxIAXav0gpfYUX62g';
+// const chatId = '-1001851742913';
+// const urlApi = `https://api.telegram.org/bot${token}/sendMessage`;
 
 document.getElementById('send-form').addEventListener('submit', function (e) {
   e.preventDefault()
